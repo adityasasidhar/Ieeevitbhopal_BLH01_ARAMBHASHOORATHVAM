@@ -1,5 +1,5 @@
 # Ieeevitbhopal_BLH01_ARAMBHASHOORATHVAM
-PROJECT RUTEL, TEAM AME, TEAM MEMBER NAME, PRJECT DESCRIPTION, TECH USED , SETUP INTRUCTIONS, USAGE INSTRUCTIONS, THEMEFIT, FUTURE ENHANCEMENTS
+
  Project Hairclip
  Team name AARAMBHASHOORATHVAM
  Team members: 1.T.Aditya Sasidhar
@@ -15,4 +15,7 @@ to push each others through their validate each opinions and to overcome challen
 
 like they say
   "Girls get is done"
+
+
+In the future i hope certain ideas such as brining in women together get further refined and it translates into even better idea.
                
